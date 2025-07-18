@@ -37,4 +37,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlesxmd)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Charleskenya1)
 
-![Visitor Count](https://profile-counter.glitch.me/Charles-XMD/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Charlesxmd/count.svg)
